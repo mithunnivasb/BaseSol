@@ -1,0 +1,12 @@
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\Eb.Dal\bin\Debug\netcoreapp3.1\Eb.Dal.deps.json
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\Eb.Dal\bin\Debug\netcoreapp3.1\Eb.Dal.dll
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\Eb.Dal\bin\Debug\netcoreapp3.1\Eb.Dal.pdb
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\Eb.Dal\obj\Debug\netcoreapp3.1\Eb.Dal.csproj.AssemblyReference.cache
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\Eb.Dal\obj\Debug\netcoreapp3.1\Eb.Dal.AssemblyInfoInputs.cache
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\Eb.Dal\obj\Debug\netcoreapp3.1\Eb.Dal.AssemblyInfo.cs
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\Eb.Dal\obj\Debug\netcoreapp3.1\Eb.Dal.csproj.CoreCompileInputs.cache
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\Eb.Dal\obj\Debug\netcoreapp3.1\Eb.Dal.dll
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\Eb.Dal\obj\Debug\netcoreapp3.1\Eb.Dal.pdb
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\Eb.Dal\bin\Debug\netcoreapp3.1\DatabaseOperations.dll
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\Eb.Dal\bin\Debug\netcoreapp3.1\DatabaseOperations.pdb
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\Eb.Dal\obj\Debug\netcoreapp3.1\Eb.Dal.csproj.CopyComplete

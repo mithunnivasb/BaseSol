@@ -1,0 +1,9 @@
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\DatabaseOperations\bin\Debug\netcoreapp3.1\DatabaseOperations.deps.json
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\DatabaseOperations\bin\Debug\netcoreapp3.1\DatabaseOperations.dll
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\DatabaseOperations\bin\Debug\netcoreapp3.1\DatabaseOperations.pdb
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\DatabaseOperations\obj\Debug\netcoreapp3.1\DatabaseOperations.csproj.AssemblyReference.cache
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\DatabaseOperations\obj\Debug\netcoreapp3.1\DatabaseOperations.AssemblyInfoInputs.cache
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\DatabaseOperations\obj\Debug\netcoreapp3.1\DatabaseOperations.AssemblyInfo.cs
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\DatabaseOperations\obj\Debug\netcoreapp3.1\DatabaseOperations.csproj.CoreCompileInputs.cache
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\DatabaseOperations\obj\Debug\netcoreapp3.1\DatabaseOperations.dll
+C:\Source\EnteripriseBilling\Billing\EnterpriseBillingApi\DatabaseOperations\obj\Debug\netcoreapp3.1\DatabaseOperations.pdb
