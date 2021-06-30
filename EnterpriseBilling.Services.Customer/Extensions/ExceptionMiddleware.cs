@@ -9,7 +9,6 @@ using System.Threading.Tasks;
 
 namespace EnterpriseBilling.Extensions
 {
-    
     public class ExceptionMiddleware
     {
         private readonly RequestDelegate _next;

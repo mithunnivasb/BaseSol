@@ -8,7 +8,7 @@ using System.Net;
 
 namespace EnterpriseBilling.Services.Customer.Controllers
 {
-    [Authorize]
+    
     [ApiController]
     [Route("api/[controller]")]
     public class CustomerInfoController : ControllerBase

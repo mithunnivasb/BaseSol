@@ -8,10 +8,10 @@ namespace EnterpriseBilling.Models
 {
     public class CustomerProfile
     {
-        public int Id { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+        public int CustId { get; set; }
+        public string AccountManagerName { get; set; }
+        public string AddressDetails { get; set; }
         public string CompanyName { get; set; }
-        public string EmailAddress { get; set; }
+    
     }
 }

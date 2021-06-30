@@ -12,7 +12,7 @@ C:\Users\manil\Source\Repos\anilManchi\BaseSol\EnterpriseBilling.Models\obj\Debu
 C:\Users\manil\Source\Repos\anilManchi\BaseSol\EnterpriseBilling.Models\bin\Debug\netcoreapp3.1\EnterpriseBilling.Models.deps.json
 C:\Users\manil\Source\Repos\anilManchi\BaseSol\EnterpriseBilling.Models\bin\Debug\netcoreapp3.1\EnterpriseBilling.Models.dll
 C:\Users\manil\Source\Repos\anilManchi\BaseSol\EnterpriseBilling.Models\bin\Debug\netcoreapp3.1\EnterpriseBilling.Models.pdb
-C:\Users\manil\Source\Repos\anilManchi\BaseSol\EnterpriseBilling.Models\obj\Debug\netcoreapp3.1\EnterpriseBilling.Models.csproj.AssemblyReference.cache
 C:\Users\manil\Source\Repos\anilManchi\BaseSol\EnterpriseBilling.Models\obj\Debug\netcoreapp3.1\EnterpriseBilling.Models.AssemblyInfoInputs.cache
 C:\Users\manil\Source\Repos\anilManchi\BaseSol\EnterpriseBilling.Models\obj\Debug\netcoreapp3.1\EnterpriseBilling.Models.AssemblyInfo.cs
 C:\Users\manil\Source\Repos\anilManchi\BaseSol\EnterpriseBilling.Models\obj\Debug\netcoreapp3.1\EnterpriseBilling.Models.csproj.CoreCompileInputs.cache
+C:\Users\manil\Source\Repos\anilManchi\BaseSol\EnterpriseBilling.Models\obj\Debug\netcoreapp3.1\EnterpriseBilling.Models.csproj.AssemblyReference.cache

@@ -25,10 +25,10 @@ namespace EnterpriseBilling.Tests
         {
             var customerList = new System.Collections.Generic.List<Models.CustomerProfile>(){
                 new Models.CustomerProfile() {
-                    Id=1,
-                    FirstName="FName",
-                    LastName="LName",
-                    EmailAddress="test@test.com"
+                    CustId=1,
+                    CompanyName="FName",
+                    AddressDetails="LName",
+                    AccountManagerName="test@test.com"
                 }};
 
             _customerRepositoryMock.Setup(x => x.GetCustomers()).Returns(customerList);

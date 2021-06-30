@@ -10,6 +10,7 @@ namespace EnterpriseBilling.Extensions
         {
             builder.AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<CustomerProfileValidator>());
             return builder;
+
         }
     }
 }
